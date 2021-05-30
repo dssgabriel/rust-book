@@ -1,0 +1,7 @@
+# Directories to ignore
+**/target/
+**/**/target/
+
+# Files to ignore
+**/Cargo.lock
+**/**/Cargo.lock
